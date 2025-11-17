@@ -1,0 +1,66 @@
+[
+  {
+    "text_id": 0,
+    "text_preview": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are pro...",
+    "success": true,
+    "questions": [
+      {
+        "question": "What does Artificial Intelligence (AI) simulate?",
+        "option_a": "Human emotions",
+        "option_b": "Human intelligence",
+        "option_c": "Human memory",
+        "option_d": "Human physical abilities",
+        "correct_answer": "B"
+      },
+      {
+        "question": "What is the purpose of AI according to the passage?",
+        "option_a": "To replicate human thoughts and behaviors",
+        "option_b": "To create machines that can only think",
+        "option_c": "To make machines that can only solve problems",
+        "option_d": "To make machines that can only learn",
+        "correct_answer": "A"
+      },
+      {
+        "question": "Which of the following is NOT a trait associated with human intelligence that AI can mimic?",
+        "option_a": "Learning",
+        "option_b": "Problem-solving",
+        "option_c": "Emotions",
+        "option_d": "Physical abilities",
+        "correct_answer": "D"
+      }
+    ],
+    "num_questions": 3
+  },
+  {
+    "text_id": 1,
+    "text_preview": "Deep learning is part of a broader family of machine learning methods based on artificial neural net...",
+    "success": true,
+    "questions": [
+      {
+        "question": "What is a key feature of deep learning methods?",
+        "option_a": "They are based on biological neural networks",
+        "option_b": "They are based on artificial neural networks",
+        "option_c": "They are based on genetic algorithms",
+        "option_d": "They are based on random forests",
+        "correct_answer": "B"
+      },
+      {
+        "question": "What type of learning does deep learning encompass?",
+        "option_a": "Only supervised learning",
+        "option_b": "Supervised, semi-supervised, and unsupervised learning",
+        "option_c": "Only unsupervised learning",
+        "option_d": "Only reinforcement learning",
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which fields have deep learning architectures been applied to?",
+        "option_a": "Computer vision and natural language processing",
+        "option_b": "Only computer vision",
+        "option_c": "Only natural language processing",
+        "option_d": "Only robotics",
+        "correct_answer": "A"
+      }
+    ],
+    "num_questions": 3
+  }
+]
